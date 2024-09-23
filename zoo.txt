@@ -1,1 +1,9 @@
-palabras subrayadas del artículo
+DOM
+Cartogram
+Wedge
+Sunburst
+Bézier curves
+Choropleth
+Semantic zooming
+Voronoi tessellation
+Convex hulls
