@@ -1,9 +1,11 @@
-DOM
-Cartogram
-Wedge
+stream graph
+small multiples
+Q-Q plot
+Parallel Coordinates
+Graduated symbol map
+Node-link diagrams
 Sunburst
-Bézier curves
-Choropleth
-Semantic zooming
-Voronoi tessellation
-Convex hulls
+Enclosure Diagrams
+Spacefilling adjacency diagram
+Arc Diagram
+
